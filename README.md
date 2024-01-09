@@ -1,4 +1,4 @@
-# [Your Name]'s GitHub Profile
+# Deepak's GitHub Profile
 
 Welcome to my GitHub profile! 👋 I'm Deepak, and I'm passionate about Software Development. This is where I share my projects, contributions, and experiences in the world of technology.
 
