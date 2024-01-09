@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋 I'm Deepak, and I'm passionate about Software
 
 ## 🚀 About Me
 
-- 💻 I'm a graduate with expertise in C/C++, JavaScript, Python, ReactJS, MySQl
+- 💻 I'm a graduate with expertise in C/C++, JavaScript, Python, ReactJS, MySQL
 - 🎓 I hold a degree in Computer Science.
 
 - 📫 Reach out to me via [email](mailto:deepak.dara07@example.com) or [LinkedIn](https://www.linkedin.com/in/daradeepak/).
